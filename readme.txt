@@ -6,3 +6,6 @@ DB_NAME£ºtravel
 database username £ºtravel
 database password £ºqqq
 hostname £ºlocalhost
+
+admin:asdaisy
+paswd:zcdaisy724
